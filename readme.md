@@ -4,6 +4,8 @@ Built on the original tcd, the enhanced version (planned) will add more fine-tun
 
 As a pseudo amazon web evangelist, I find it funny watching twitch attempt to deal with open source wrappers of their existing systems.
 
+As a deisgn philosphy, in order to fulfill legal and trolling requirements, you must design something that is reasonable in nature itself but easy for anyone to parallel by another factor of N.
+
 ### Requirements
 
 * [Python 3.8 or newer](https://www.python.org/downloads/)
