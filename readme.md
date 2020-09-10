@@ -1,10 +1,6 @@
-# Twitch Chat Downloader
+# Twitch Chat Downloader Enhanced
 
-[![Discord](https://user-images.githubusercontent.com/7288322/34471967-1df7808a-efbb-11e7-9088-ed0b04151291.png)](https://discord.gg/wZJFeXC)
-
-`pip install tcd`
-
-A neat tool to download chat messages from past broadcasts.
+Built on the original tcd, the enhanced version (planned) will add more fine-tuned search-vector returns, add video downloads, add parallel processing, add multiple-auth-and-routing, and potentially add other features as well.
 
 ### Requirements
 
