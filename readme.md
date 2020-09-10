@@ -1,6 +1,6 @@
 # Twitch Chat Downloader Enhanced
 
-Built on the original tcd, the enhanced version (planned) will add more fine-tuned search-vector returns, add video downloads, add parallel processing, add multiple-auth-and-routing, and potentially add other features as well.
+Built on the original tcd, the enhanced version (planned) will add more fine-tuned search-vector returns, add video downloads, add error-catching-and-retires-later functionality, add parallel processing, add multiple-auth-and-routing, and potentially add other features as well.
 
 ### Requirements
 
