@@ -6,6 +6,8 @@ As a pseudo amazon web evangelist, I find it funny watching twitch attempt to de
 
 As a deisgn philosphy, in order to fulfill legal and trolling requirements, you must design something that is reasonable in nature itself but easy for anyone to parallel by another factor of N.
 
+Twitch TV allows people to access most of their server resources without a verified payment or authentication method, so it's really easy to legally troll. In contrast writing function parameters to load fraud for AWS is a lot more illegal to write.
+
 ### Requirements
 
 * [Python 3.8 or newer](https://www.python.org/downloads/)
