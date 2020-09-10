@@ -2,6 +2,8 @@
 
 Built on the original tcd, the enhanced version (planned) will add more fine-tuned search-vector returns, add video downloads, add error-catching-and-retires-later functionality, add parallel processing, add multiple-auth-and-routing, and potentially add other features as well.
 
+As a pseudo amazon web evangelist, I find it funny watching twitch attempt to deal with open source wrappers of their existing systems.
+
 ### Requirements
 
 * [Python 3.8 or newer](https://www.python.org/downloads/)
